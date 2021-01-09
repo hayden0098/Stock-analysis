@@ -13,11 +13,17 @@ In 2017, Many stocks were have the positive return especially DQ(with volume 35,
 In 2018, ENPH(with volume 607,473,500) and RUN(with volume 502,757,100) were have the positive return; The highest negative return stocks were DQ(with volume 107,873,900), JKS(with volume 158,309,000) and SQWR(with volume 538,024,300).
 Lets combine 2017, 2018 all stocks data sets, we can see ENPH(with volume +385,701,400 from last year) and RUN(with volume +235,075,800 from last year) are stocks that keep growthing in two years. These 2 stocks could be the option to consider inviest in.
 while working on VBA, we have refactored the All Stocks Analysis subrountine code in order to make the VBA script run faster. We figured out a way to use one loop and tickerIndex variable as index instead of nested loop, this can make computer use les memory by improving the logic of the code.
+In this two screenshot, left one is the run timmer for the script before refactored; right one is the run timmer for the script that have refactored.
 
-
+we can see after refactored the run time got huge reduce compare to the original run time, which tells us that we have successfully made the script run faster.
 
 ## Summary
 
 1. ###### What are the advantages or disadvantages of refactoring code?
-
+  - Advantage:  1. Easier to maintaine or enhance the code in future.
+                2. BUG can be detacted and get fix while refactoring the code.
+                3. Improve the coding logic, reduce the size of code and useless memory.
+  
+  - Disadvantage: 1. May make time tight with long time of searching and debuging.
+                  2. 
 2. ###### How do these pros and cons apply to refactoring the original VBA script?
