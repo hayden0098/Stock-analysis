@@ -22,7 +22,7 @@ while working on VBA, we have refactored the All Stocks Analysis subrountine cod
 
 2. ![VBA Challenge 2017](https://github.com/hayden0098/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) ![VBA Challenge 2018](https://github.com/hayden0098/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-In this two bundle of screenshot, Frist bundle is the run timmer for the 2017, 2018 script before refactored; second bundle is the run timmer for the 2017, 2018 script that have refactored. we can see after refactored the run time got huge reduce compare to the original run time, which tells us that we have successfully made the script run faster.
+In this two bundle of screenshot, Frist bundle is the run timmer for the 2017, 2018 script before refactored; second bundle is the run timmer for the 2017, 2018 script that have refactored. we can see after refactored the run time has reduced about 0.6-0.7 sec, this is a huge different compare to the original run time, which tells us that we have successfully made the script run faster.
 
 ## Summary
 
