@@ -13,8 +13,8 @@ In 2017, Many stocks were have the positive return especially DQ(with volume 35,
 ![All Stocks 2017](https://github.com/hayden0098/Stock-analysis/blob/main/Resources/2017%20stock.png)
 
 In 2018, ENPH(with volume 607,473,500) and RUN(with volume 502,757,100) were have the positive return; The highest negative return stocks were DQ(with volume 107,873,900), JKS(with volume 158,309,000) and SQWR(with volume 538,024,300).
+![All Stocks 2018](https://github.com/hayden0098/Stock-analysis/blob/main/Resources/2018%20ALLstocks.png)
 
-(https://github.com/hayden0098/Stock-analysis/blob/main/Resources/2018%20ALLstocks.png)
 Lets combine 2017, 2018 all stocks data sets, we can see ENPH(with volume +385,701,400 from last year) and RUN(with volume +235,075,800 from last year) are stocks that keep growthing in two years. These 2 stocks could be the option to consider inviest in.
 
 while working on VBA, we have refactored the All Stocks Analysis subrountine code in order to make the VBA script run faster. We figured out a way to use one loop and tickerIndex variable as index instead of nested loop, this can make computer use les memory by improving the logic of the code.
